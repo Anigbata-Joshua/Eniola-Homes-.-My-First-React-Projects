@@ -149,4 +149,4 @@ Tailwind CSS ensures consistent styling across all breakpoints.
 
 ## 📄 License
 
-This project is part of a React class assignment. Please refer to your course guidelines for usage and distribution rights.
+This project is part of a React class assignment. Please refer to your course guidelines for usage and distribution rights.# Eniola-Homes-With-TailwindCSS
